@@ -1,0 +1,79 @@
+ivy:
+====
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 0.0
+ghost: 23.1
+ghost-v2: 94.0
+
+lucene:
+=======
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 0.0
+ghost: ghost-v2: 57.599999999999994
+
+poi:
+====
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 0.0
+ghost: ghost-v2: 53.400000000000006
+
+synapse:
+========
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 0.0
+ghost: 51.9
+ghost-v2: 79.80000000000001
+
+velocity:
+=========
+vanilla: 50.8
+weighted_losses: 50.8
+weighted_fuzzy_oversampling: 33.1
+ghost: 51.0
+ghost-v2: 79.5
+
+camel:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 17.9
+ghost: 32.6
+ghost-v2: 89.2
+
+jedit:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 0.0
+ghost: 5.0
+ghost-v2: 98.9
+
+log4j:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 0.0
+ghost: 95.89999999999999
+ghost-v2: 14.6
+
+xalan:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 16.400000000000002
+ghost: 99.4
+ghost-v2: 2.4
+
+xerces:
+=======
+vanilla: 0.0
+weighted_losses: 0.0
+weighted_fuzzy_oversampling: 26.700000000000003
+ghost: 85.3
+ghost-v2: 40.9
+
+Done.

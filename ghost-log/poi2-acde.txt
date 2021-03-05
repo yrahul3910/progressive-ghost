@@ -1,0 +1,621 @@
+Run # 0
+======
+setting: minmaxC|rf
+iter 0 : [0.0, -1.3639519337527162e-05, 0.0, 0.006211180124223602, 0.0]
+setting: standardizeL|rf
+iter 1 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxE|rf
+iter 2 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeo|rf
+iter 3 : [0.013937282229965157, 0.004813024055152493, 0.0071174377224199285, 0.024844720496894408, 0.3333333333333333]
+setting: minmaxl|rf
+iter 4 : [0.5353982300884956, 0.24849061126498695, 0.4306049822064057, 0.3105590062111801, 0.7076023391812866]
+setting: normalizeE|rf
+iter 5 : [0.18181818181818182, 0.07174467454382161, 0.10320284697508897, 0.055900621118012424, 0.7631578947368421]
+setting: normalizeY|rf
+iter 6 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxe|rf
+iter 7 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizel|rf
+iter 8 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizev|rf
+iter 9 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeW|rf
+iter 10 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxy|rf
+iter 11 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizep|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeO|rf
+iter 13 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizef|rf
+iter 14 : [0.03436426116838488, 0.012234889270628435, 0.017793594306049824, 0.031055900621118012, 0.5]
+setting: minmaxj|rf
+iter 15 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeT|rf
+iter 16 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeR|rf
+iter 17 : [0.007042253521126761, 0.0024616429106720794, 0.0035587188612099642, 0.012422360248447204, 0.3333333333333333]
+setting: standardizeV|rf
+iter 18 : [0.05047318611987381, 0.009211097137623026, 0.028469750889679714, 0.17391304347826086, 0.2222222222222222]
+setting: minmaxD|rf
+iter 19 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeC|rf
+iter 20 : [0.05863192182410423, 0.01858730267138653, 0.03202846975088968, 0.10559006211180125, 0.34615384615384615]
+setting: minmaxn|rf
+iter 21 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizez|rf
+iter 22 : [0.1076487252124646, 0.007925726932271115, 0.06761565836298933, 0.32919254658385094, 0.2638888888888889]
+setting: normalizee|rf
+iter 23 : [0.02054794520547945, 0.006667380632005004, 0.010676156583629894, 0.049689440993788817, 0.2727272727272727]
+setting: standardizew|rf
+iter 24 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxx|rf
+iter 25 : [0.007092198581560283, 0.0025163942390979965, 0.0035587188612099642, 0.0, 1.0]
+setting: normalizeB|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxV|rf
+iter 27 : [0.10714285714285714, 0.02563641024957697, 0.06405693950177936, 0.22981366459627328, 0.32727272727272727]
+setting: standardizeT|rf
+iter 28 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalized|rf
+iter 29 : [0.3243243243243243, 0.10531814900869274, 0.23487544483985764, 0.37267080745341613, 0.5238095238095238]
+Run # 1
+======
+setting: normalizew|rf
+iter 0 : [0.027210884353741492, 0.008945710863004552, 0.014234875444839857, 0.055900621118012424, 0.3076923076923077]
+setting: normalizeC|rf
+iter 1 : [0.02105263157894737, 0.007535396011784212, 0.010676156583629894, 0.006211180124223602, 0.75]
+setting: normalizeS|rf
+iter 2 : [0.013986013986013988, 0.004909162527201527, 0.0071174377224199285, 0.018633540372670808, 0.4]
+setting: normalizeU|rf
+iter 3 : [0.007092198581560283, 0.0025163942390979965, 0.0035587188612099642, 0.0, 1.0]
+setting: normalizey|rf
+iter 4 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxh|rf
+iter 5 : [0.24561403508771928, 0.09992695193834988, 0.1494661921708185, 0.11801242236024845, 0.6885245901639344]
+setting: standardizeq|rf
+iter 6 : [0.21238938053097345, 0.08306450412615973, 0.12811387900355872, 0.13664596273291926, 0.6206896551724138]
+setting: standardizeC|rf
+iter 7 : [0.2608695652173913, 0.10740360202746213, 0.1601423487544484, 0.11801242236024845, 0.703125]
+setting: normalizeF|rf
+iter 8 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeQ|rf
+iter 9 : [0.0261437908496732, 0.003990107616851701, 0.014234875444839857, 0.13043478260869565, 0.16]
+setting: minmaxf|rf
+iter 10 : [0.007017543859649123, 0.002393209732040491, 0.0035587188612099642, 0.018633540372670808, 0.25]
+setting: normalizeD|rf
+iter 11 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeU|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxX|rf
+iter 13 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxb|rf
+iter 14 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxG|rf
+iter 15 : [0.007092198581560283, 0.0025163942390979965, 0.0035587188612099642, 0.0, 1.0]
+setting: standardizez|rf
+iter 16 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxO|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxq|rf
+iter 18 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxl|rf
+iter 19 : [0.11875000000000002, 0.04198571553605179, 0.06761565836298933, 0.12422360248447205, 0.48717948717948717]
+setting: minmaxK|rf
+iter 20 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizek|rf
+iter 21 : [0.31443298969072164, 0.11778790238459058, 0.21708185053380782, 0.2857142857142857, 0.5700934579439252]
+setting: normalizeH|rf
+iter 22 : [0.02105263157894737, 0.007535396011784212, 0.010676156583629894, 0.006211180124223602, 0.75]
+setting: standardizee|rf
+iter 23 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeb|rf
+iter 24 : [0.2835443037974683, 0.08625323954875674, 0.199288256227758, 0.36024844720496896, 0.49122807017543857]
+setting: minmaxp|rf
+iter 25 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxD|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxt|rf
+iter 27 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeT|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxY|rf
+iter 29 : [0.06622516556291391, 0.023454786180347242, 0.03558718861209965, 0.06832298136645963, 0.47619047619047616]
+Run # 2
+======
+setting: normalizeb|rf
+iter 0 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizes|rf
+iter 1 : [0.07119741100323625, 0.023590194576513568, 0.03914590747330961, 0.10559006211180125, 0.39285714285714285]
+setting: normalizeC|rf
+iter 2 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxh|rf
+iter 3 : [0.12923076923076923, 0.04509205070655331, 0.07473309608540925, 0.14285714285714285, 0.4772727272727273]
+setting: normalizeI|rf
+iter 4 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeq|rf
+iter 5 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizev|rf
+iter 6 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeI|rf
+iter 7 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxQ|rf
+iter 8 : [0.007042253521126761, 0.0024616429106720794, 0.0035587188612099642, 0.012422360248447204, 0.3333333333333333]
+setting: minmaxx|rf
+iter 9 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxE|rf
+iter 10 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxX|rf
+iter 11 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizew|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeA|rf
+iter 13 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeF|rf
+iter 14 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeh|rf
+iter 15 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizef|rf
+iter 16 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeD|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxr|rf
+iter 18 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxY|rf
+iter 19 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxf|rf
+iter 20 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizey|rf
+iter 21 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxv|rf
+iter 22 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxC|rf
+iter 23 : [0.03460207612456747, 0.012457001724605732, 0.017793594306049824, 0.018633540372670808, 0.625]
+setting: minmaxe|rf
+iter 24 : [0.0, -1.3639519337527162e-05, 0.0, 0.006211180124223602, 0.0]
+setting: normalizeM|rf
+iter 25 : [0.007092198581560283, 0.0025163942390979965, 0.0035587188612099642, 0.0, 1.0]
+setting: standardizeo|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizek|rf
+iter 27 : [0.014084507042253521, 0.005019051186432644, 0.0071174377224199285, 0.006211180124223602, 0.6666666666666666]
+setting: standardizeK|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeB|rf
+iter 29 : [0.0, 0.0, 0.0, 0.0, 0.0]
+Run # 3
+======
+setting: minmaxO|rf
+iter 0 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxm|rf
+iter 1 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxw|rf
+iter 2 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeA|rf
+iter 3 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeQ|rf
+iter 4 : [0.034722222222222224, 0.01252642643255264, 0.017793594306049824, 0.012422360248447204, 0.7142857142857143]
+setting: normalizes|rf
+iter 5 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeo|rf
+iter 6 : [0.0, -1.3639519337527162e-05, 0.0, 0.006211180124223602, 0.0]
+setting: minmaxn|rf
+iter 7 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeJ|rf
+iter 8 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizep|rf
+iter 9 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizef|rf
+iter 10 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxp|rf
+iter 11 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeZ|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeT|rf
+iter 13 : [0.06802721088435375, 0.025036667636652354, 0.03558718861209965, 0.018633540372670808, 0.7692307692307693]
+setting: standardizeT|rf
+iter 14 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeC|rf
+iter 15 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizez|rf
+iter 16 : [0.006968641114982578, 0.0021742682036017813, 0.0035587188612099642, 0.031055900621118012, 0.16666666666666666]
+setting: standardizet|rf
+iter 17 : [0.060000000000000005, 0.0212398993405295, 0.03202846975088968, 0.062111801242236024, 0.47368421052631576]
+setting: standardizej|rf
+iter 18 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardized|rf
+iter 19 : [0.26133333333333336, 0.09075665587003479, 0.17437722419928825, 0.2795031055900621, 0.5212765957446809]
+setting: minmaxA|rf
+iter 20 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxi|rf
+iter 21 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizer|rf
+iter 22 : [0.12944983818770228, 0.04938872682315654, 0.0711743772241993, 0.049689440993788817, 0.7142857142857143]
+setting: standardizew|rf
+iter 23 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeF|rf
+iter 24 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeq|rf
+iter 25 : [0.045454545454545456, 0.012042036405888967, 0.02491103202846975, 0.12422360248447205, 0.25925925925925924]
+setting: standardizev|rf
+iter 26 : [0.0, -0.0004908570610938634, 0.0, 0.037267080745341616, 0.0]
+setting: minmaxT|rf
+iter 27 : [0.007017543859649123, 0.002393209732040491, 0.0035587188612099642, 0.018633540372670808, 0.25]
+setting: normalizeL|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeH|rf
+iter 29 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+Run # 4
+======
+setting: standardizeY|rf
+iter 0 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeA|rf
+iter 1 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxg|rf
+iter 2 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxJ|rf
+iter 3 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxz|rf
+iter 4 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizef|rf
+iter 5 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxv|rf
+iter 6 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeg|rf
+iter 7 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeO|rf
+iter 8 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizej|rf
+iter 9 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeY|rf
+iter 10 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeL|rf
+iter 11 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeZ|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeU|rf
+iter 13 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxo|rf
+iter 14 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeG|rf
+iter 15 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardized|rf
+iter 16 : [0.03460207612456747, 0.012457001724605732, 0.017793594306049824, 0.018633540372670808, 0.625]
+setting: standardizek|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxV|rf
+iter 18 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeu|rf
+iter 19 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizel|rf
+iter 20 : [0.0, -1.3639519337527162e-05, 0.0, 0.006211180124223602, 0.0]
+setting: minmaxG|rf
+iter 21 : [0.0, -1.3639519337527162e-05, 0.0, 0.006211180124223602, 0.0]
+setting: standardizeE|rf
+iter 22 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxL|rf
+iter 23 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxN|rf
+iter 24 : [0.020905923344947737, 0.007425112147348534, 0.010676156583629894, 0.018633540372670808, 0.5]
+setting: standardizep|rf
+iter 25 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizes|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxI|rf
+iter 27 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxB|rf
+iter 28 : [0.08695652173913042, 0.03235568793784849, 0.046263345195729534, 0.031055900621118012, 0.7222222222222222]
+setting: normalizeJ|rf
+iter 29 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+Run # 5
+======
+setting: normalizeN|rf
+iter 0 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxc|rf
+iter 1 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeQ|rf
+iter 2 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxW|rf
+iter 3 : [0.03460207612456747, 0.012457001724605732, 0.017793594306049824, 0.018633540372670808, 0.625]
+setting: standardizef|rf
+iter 4 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxV|rf
+iter 5 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizee|rf
+iter 6 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxs|rf
+iter 7 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeO|rf
+iter 8 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxu|rf
+iter 9 : [0.027777777777777776, 0.00994105855810734, 0.014234875444839857, 0.018633540372670808, 0.5714285714285714]
+setting: minmaxe|rf
+iter 10 : [0.0, -0.00021820074770062536, 0.0, 0.024844720496894408, 0.0]
+setting: standardizee|rf
+iter 11 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeJ|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeG|rf
+iter 13 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxg|rf
+iter 14 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeZ|rf
+iter 15 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizes|rf
+iter 16 : [0.007092198581560283, 0.0025163942390979965, 0.0035587188612099642, 0.0, 1.0]
+setting: standardizeb|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxS|rf
+iter 18 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizew|rf
+iter 19 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizer|rf
+iter 20 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxv|rf
+iter 21 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeo|rf
+iter 22 : [0.007067137809187279, 0.0025027060081361796, 0.0035587188612099642, 0.006211180124223602, 0.5]
+setting: standardized|rf
+iter 23 : [0.020905923344947737, 0.007425112147348534, 0.010676156583629894, 0.018633540372670808, 0.5]
+setting: normalizeL|rf
+iter 24 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeC|rf
+iter 25 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeY|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeP|rf
+iter 27 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizel|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxD|rf
+iter 29 : [0.0, 0.0, 0.0, 0.0, 0.0]
+Run # 6
+======
+setting: standardizea|rf
+iter 0 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeJ|rf
+iter 1 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizey|rf
+iter 2 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeq|rf
+iter 3 : [0.045454545454545456, 0.012042036405888967, 0.02491103202846975, 0.12422360248447205, 0.25925925925925924]
+setting: standardizeU|rf
+iter 4 : [0.01384083044982699, 0.004538415195673773, 0.0071174377224199285, 0.037267080745341616, 0.25]
+setting: normalizeg|rf
+iter 5 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeD|rf
+iter 6 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizen|rf
+iter 7 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizet|rf
+iter 8 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxH|rf
+iter 9 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeV|rf
+iter 10 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeQ|rf
+iter 11 : [0.3140096618357488, 0.08692045626936173, 0.2313167259786477, 0.422360248447205, 0.48872180451127817]
+setting: standardizee|rf
+iter 12 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxw|rf
+iter 13 : [0.05095541401273885, 0.011411895111811399, 0.028469750889679714, 0.15527950310559005, 0.24242424242424243]
+setting: standardizez|rf
+iter 14 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxi|rf
+iter 15 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxl|rf
+iter 16 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeE|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeP|rf
+iter 18 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizej|rf
+iter 19 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxj|rf
+iter 20 : [0.006944444444444444, 0.0020237853396780636, 0.0035587188612099642, 0.037267080745341616, 0.14285714285714285]
+setting: normalizeG|rf
+iter 21 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeU|rf
+iter 22 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeM|rf
+iter 23 : [0.014084507042253521, 0.005019051186432644, 0.0071174377224199285, 0.006211180124223602, 0.6666666666666666]
+setting: minmaxv|rf
+iter 24 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizei|rf
+iter 25 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxt|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizev|rf
+iter 27 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxY|rf
+iter 28 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeT|rf
+iter 29 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+Run # 7
+======
+setting: normalizeF|rf
+iter 0 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeV|rf
+iter 1 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxc|rf
+iter 2 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeq|rf
+iter 3 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxo|rf
+iter 4 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxY|rf
+iter 5 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxQ|rf
+iter 6 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeK|rf
+iter 7 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeo|rf
+iter 8 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxd|rf
+iter 9 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxP|rf
+iter 10 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxu|rf
+iter 11 : [0.020905923344947737, 0.007425112147348534, 0.010676156583629894, 0.018633540372670808, 0.5]
+setting: standardizee|rf
+iter 12 : [0.007042253521126761, 0.0024616429106720794, 0.0035587188612099642, 0.012422360248447204, 0.3333333333333333]
+setting: minmaxa|rf
+iter 13 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizew|rf
+iter 14 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizek|rf
+iter 15 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeS|rf
+iter 16 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizei|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeU|rf
+iter 18 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeH|rf
+iter 19 : [0.593320235756385, 0.23659473552395183, 0.5373665480427047, 0.4782608695652174, 0.6622807017543859]
+setting: normalizeE|rf
+iter 20 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxv|rf
+iter 21 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalized|rf
+iter 22 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizey|rf
+iter 23 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeY|rf
+iter 24 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeR|rf
+iter 25 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeP|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeC|rf
+iter 27 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeA|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizef|rf
+iter 29 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+Run # 8
+======
+setting: normalizea|rf
+iter 0 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxh|rf
+iter 1 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizer|rf
+iter 2 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeZ|rf
+iter 3 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeb|rf
+iter 4 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxv|rf
+iter 5 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizee|rf
+iter 6 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeH|rf
+iter 7 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeo|rf
+iter 8 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxU|rf
+iter 9 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizem|rf
+iter 10 : [0.061016949152542375, 0.022295364687014763, 0.03202846975088968, 0.031055900621118012, 0.6428571428571429]
+setting: standardizeE|rf
+iter 11 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeu|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizex|rf
+iter 13 : [0.0, -0.0001227462042494576, 0.0, 0.018633540372670808, 0.0]
+setting: minmaxJ|rf
+iter 14 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeK|rf
+iter 15 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxc|rf
+iter 16 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizew|rf
+iter 17 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizef|rf
+iter 18 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeN|rf
+iter 19 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxE|rf
+iter 20 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeg|rf
+iter 21 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxO|rf
+iter 22 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeq|rf
+iter 23 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxL|rf
+iter 24 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxT|rf
+iter 25 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeB|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxr|rf
+iter 27 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxg|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizez|rf
+iter 29 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+Run # 9
+======
+setting: standardizeQ|rf
+iter 0 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizeJ|rf
+iter 1 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxL|rf
+iter 2 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizee|rf
+iter 3 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxt|rf
+iter 4 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizei|rf
+iter 5 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeg|rf
+iter 6 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeQ|rf
+iter 7 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizem|rf
+iter 8 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxC|rf
+iter 9 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeZ|rf
+iter 10 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizea|rf
+iter 11 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeD|rf
+iter 12 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalized|rf
+iter 13 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxD|rf
+iter 14 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizee|rf
+iter 15 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxq|rf
+iter 16 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxX|rf
+iter 17 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizeP|rf
+iter 18 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: minmaxd|rf
+iter 19 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizeA|rf
+iter 20 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizep|rf
+iter 21 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: standardizeb|rf
+iter 22 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizek|rf
+iter 23 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizey|rf
+iter 24 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizev|rf
+iter 25 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: minmaxZ|rf
+iter 26 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: normalizey|rf
+iter 27 : [0.0, 0.0, 0.0, 0.0, 0.0]
+setting: standardizen|rf
+iter 28 : [0.7773167358229599, 0.0, 1.0, 1.0, 0.6357466063348416]
+setting: normalizes|rf
+iter 29 : [0.0, 0.0, 0.0, 0.0, 0.0]
+{0: [0.0, 0.027210884353741492, 0.0, 0.7773167358229599, 0.0, 0.7773167358229599, 0.0, 0.7773167358229599, 0.7773167358229599, 0.0], 1: [0.0, 0.027210884353741492, 0.0, 0.7773167358229599, 0.0, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 2: [0.0, 0.027210884353741492, 0.0, 0.7773167358229599, 0.0, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 3: [0.0, 0.027210884353741492, 0.0, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 4: [0.5353982300884956, 0.027210884353741492, 0.0, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 5: [0.5353982300884956, 0.24561403508771928, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 6: [0.5353982300884956, 0.24561403508771928, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 7: [0.7773167358229599, 0.24561403508771928, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 8: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 9: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 10: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 11: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 12: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 13: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 14: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 15: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 16: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 17: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 18: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 19: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 20: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 21: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 22: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 23: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 24: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 25: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 26: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 27: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 28: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 29: [0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599, 0.7773167358229599], 'settings': {0: ['minmaxC|rf', 'normalizew|rf', 'normalizeb|rf', 'minmaxO|rf', 'standardizeY|rf', 'normalizeN|rf', 'standardizea|rf', 'normalizeF|rf', 'normalizea|rf', 'standardizeQ|rf'], 1: ['standardizeL|rf', 'normalizeC|rf', 'normalizes|rf', 'minmaxm|rf', 'normalizeA|rf', 'minmaxc|rf', 'standardizeJ|rf', 'normalizeV|rf', 'minmaxh|rf', 'standardizeJ|rf'], 2: ['minmaxE|rf', 'normalizeS|rf', 'normalizeC|rf', 'minmaxw|rf', 'minmaxg|rf', 'normalizeQ|rf', 'standardizey|rf', 'minmaxc|rf', 'normalizer|rf', 'minmaxL|rf'], 3: ['standardizeo|rf', 'normalizeU|rf', 'minmaxh|rf', 'standardizeA|rf', 'minmaxJ|rf', 'minmaxW|rf', 'standardizeq|rf', 'standardizeq|rf', 'standardizeZ|rf', 'normalizee|rf'], 4: ['minmaxl|rf', 'normalizey|rf', 'normalizeI|rf', 'normalizeQ|rf', 'minmaxz|rf', 'standardizef|rf', 'standardizeU|rf', 'minmaxo|rf', 'standardizeb|rf', 'minmaxt|rf'], 5: ['normalizeE|rf', 'minmaxh|rf', 'standardizeq|rf', 'normalizes|rf', 'normalizef|rf', 'minmaxV|rf', 'normalizeg|rf', 'minmaxY|rf', 'minmaxv|rf', 'normalizei|rf'], 6: ['normalizeY|rf', 'standardizeq|rf', 'standardizev|rf', 'standardizeo|rf', 'minmaxv|rf', 'normalizee|rf', 'standardizeD|rf', 'minmaxQ|rf', 'standardizee|rf', 'normalizeg|rf'], 7: ['minmaxe|rf', 'standardizeC|rf', 'standardizeI|rf', 'minmaxn|rf', 'normalizeg|rf', 'minmaxs|rf', 'standardizen|rf', 'standardizeK|rf', 'standardizeH|rf', 'normalizeQ|rf'], 8: ['standardizel|rf', 'normalizeF|rf', 'minmaxQ|rf', 'normalizeJ|rf', 'standardizeO|rf', 'normalizeO|rf', 'normalizet|rf', 'standardizeo|rf', 'standardizeo|rf', 'standardizem|rf'], 9: ['normalizev|rf', 'standardizeQ|rf', 'minmaxx|rf', 'normalizep|rf', 'normalizej|rf', 'minmaxu|rf', 'minmaxH|rf', 'minmaxd|rf', 'minmaxU|rf', 'minmaxC|rf'], 10: ['standardizeW|rf', 'minmaxf|rf', 'minmaxE|rf', 'normalizef|rf', 'normalizeY|rf', 'minmaxe|rf', 'normalizeV|rf', 'minmaxP|rf', 'standardizem|rf', 'normalizeZ|rf'], 11: ['minmaxy|rf', 'normalizeD|rf', 'minmaxX|rf', 'minmaxp|rf', 'standardizeL|rf', 'standardizee|rf', 'standardizeQ|rf', 'minmaxu|rf', 'standardizeE|rf', 'standardizea|rf'], 12: ['normalizep|rf', 'standardizeU|rf', 'normalizew|rf', 'standardizeZ|rf', 'standardizeZ|rf', 'standardizeJ|rf', 'standardizee|rf', 'standardizee|rf', 'standardizeu|rf', 'normalizeD|rf'], 13: ['standardizeO|rf', 'minmaxX|rf', 'normalizeA|rf', 'normalizeT|rf', 'normalizeU|rf', 'normalizeG|rf', 'minmaxw|rf', 'minmaxa|rf', 'normalizex|rf', 'normalized|rf'], 14: ['standardizef|rf', 'minmaxb|rf', 'standardizeF|rf', 'standardizeT|rf', 'minmaxo|rf', 'minmaxg|rf', 'standardizez|rf', 'normalizew|rf', 'minmaxJ|rf', 'minmaxD|rf'], 15: ['minmaxj|rf', 'minmaxG|rf', 'normalizeh|rf', 'normalizeC|rf', 'standardizeG|rf', 'standardizeZ|rf', 'minmaxi|rf', 'standardizek|rf', 'standardizeK|rf', 'standardizee|rf'], 16: ['normalizeT|rf', 'standardizez|rf', 'standardizef|rf', 'normalizez|rf', 'standardized|rf', 'normalizes|rf', 'minmaxl|rf', 'standardizeS|rf', 'minmaxc|rf', 'minmaxq|rf'], 17: ['standardizeR|rf', 'minmaxO|rf', 'normalizeD|rf', 'standardizet|rf', 'standardizek|rf', 'standardizeb|rf', 'normalizeE|rf', 'normalizei|rf', 'standardizew|rf', 'minmaxX|rf'], 18: ['standardizeV|rf', 'minmaxq|rf', 'minmaxr|rf', 'standardizej|rf', 'minmaxV|rf', 'minmaxS|rf', 'standardizeP|rf', 'standardizeU|rf', 'normalizef|rf', 'normalizeP|rf'], 19: ['minmaxD|rf', 'minmaxl|rf', 'minmaxY|rf', 'standardized|rf', 'normalizeu|rf', 'normalizew|rf', 'standardizej|rf', 'standardizeH|rf', 'standardizeN|rf', 'minmaxd|rf'], 20: ['standardizeC|rf', 'minmaxK|rf', 'minmaxf|rf', 'minmaxA|rf', 'standardizel|rf', 'standardizer|rf', 'minmaxj|rf', 'normalizeE|rf', 'minmaxE|rf', 'normalizeA|rf'], 21: ['minmaxn|rf', 'standardizek|rf', 'standardizey|rf', 'minmaxi|rf', 'minmaxG|rf', 'minmaxv|rf', 'normalizeG|rf', 'minmaxv|rf', 'standardizeg|rf', 'standardizep|rf'], 22: ['standardizez|rf', 'normalizeH|rf', 'minmaxv|rf', 'standardizer|rf', 'standardizeE|rf', 'normalizeo|rf', 'normalizeU|rf', 'normalized|rf', 'minmaxO|rf', 'standardizeb|rf'], 23: ['normalizee|rf', 'standardizee|rf', 'minmaxC|rf', 'standardizew|rf', 'minmaxL|rf', 'standardized|rf', 'normalizeM|rf', 'standardizey|rf', 'standardizeq|rf', 'normalizek|rf'], 24: ['standardizew|rf', 'standardizeb|rf', 'minmaxe|rf', 'normalizeF|rf', 'minmaxN|rf', 'normalizeL|rf', 'minmaxv|rf', 'normalizeY|rf', 'minmaxL|rf', 'standardizey|rf'], 25: ['minmaxx|rf', 'minmaxp|rf', 'normalizeM|rf', 'normalizeq|rf', 'standardizep|rf', 'normalizeC|rf', 'normalizei|rf', 'standardizeR|rf', 'minmaxT|rf', 'standardizev|rf'], 26: ['normalizeB|rf', 'minmaxD|rf', 'standardizeo|rf', 'standardizev|rf', 'standardizes|rf', 'normalizeY|rf', 'minmaxt|rf', 'standardizeP|rf', 'standardizeB|rf', 'minmaxZ|rf'], 27: ['minmaxV|rf', 'minmaxt|rf', 'normalizek|rf', 'minmaxT|rf', 'minmaxI|rf', 'normalizeP|rf', 'standardizev|rf', 'standardizeC|rf', 'minmaxr|rf', 'normalizey|rf'], 28: ['standardizeT|rf', 'normalizeT|rf', 'standardizeK|rf', 'normalizeL|rf', 'minmaxB|rf', 'standardizel|rf', 'minmaxY|rf', 'normalizeA|rf', 'minmaxg|rf', 'standardizen|rf'], 29: ['normalized|rf', 'minmaxY|rf', 'standardizeB|rf', 'standardizeH|rf', 'normalizeJ|rf', 'minmaxD|rf', 'normalizeT|rf', 'normalizef|rf', 'normalizez|rf', 'normalizes|rf']}}

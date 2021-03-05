@@ -1,0 +1,51 @@
+ivy:
+====
+tuning: 0.0
+weighted_fuzzy_oversampling: 20.4
+
+lucene:
+=======
+tuning: 74.8
+weighted_fuzzy_oversampling: 74.8
+
+poi:
+====
+tuning: 41.199999999999996
+weighted_fuzzy_oversampling: 77.7
+
+synapse:
+========
+tuning: 0.0
+weighted_fuzzy_oversampling: 50.3
+
+velocity:
+=========
+tuning: 50.8
+weighted_fuzzy_oversampling: 50.8
+
+camel:
+======
+tuning: 0.0
+weighted_fuzzy_oversampling: 32.6
+
+jedit:
+======
+tuning: 0.0
+weighted_fuzzy_oversampling: 4.3999999999999995
+
+log4j:
+======
+tuning: 1.6
+weighted_fuzzy_oversampling: 95.89999999999999
+
+xalan:
+======
+tuning: 2.0
+weighted_fuzzy_oversampling: 99.4
+
+xerces:
+=======
+tuning: 0.0
+weighted_fuzzy_oversampling: 85.3
+
+Done.

@@ -1,0 +1,141 @@
+ivy:
+====
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 20.4
+ghost: 20.4
+ghost-v2: 94.0
+
+lucene:
+=======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.7000000000000001
+wfo_with_tuning: 73.7
+ghost: 73.7
+ghost-v2: 58.9
+
+lucene2:
+========
+vanilla: 12.7
+weighted_losses: 0.0
+wfo_only: 24.5
+tuning: 74.8
+wfo_with_tuning: 74.8
+ghost: 74.8
+ghost-v2: 58.199999999999996
+
+poi:
+====
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 78.4
+wfo_with_tuning: 78.4
+ghost: 78.4
+ghost-v2: 52.5
+
+poi2:
+=====
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 77.7
+wfo_with_tuning: 77.7
+ghost: 77.7
+ghost-v2: 53.400000000000006
+
+synapse:
+========
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 42.6
+ghost: 42.6
+ghost-v2: 84.39999999999999
+
+synapse2:
+=========
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 60.699999999999996
+ghost: 50.3
+ghost-v2: 79.80000000000001
+
+camel:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 20.599999999999998
+tuning: 0.0
+wfo_with_tuning: 28.499999999999996
+ghost: 30.2
+ghost-v2: 90.9
+
+camel2:
+=======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 32.6
+ghost: 32.6
+ghost-v2: 89.2
+
+xerces:
+=======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 9.0
+tuning: 0.0
+wfo_with_tuning: 30.9
+ghost: 28.9
+ghost-v2: 91.8
+
+jedit:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 1.0999999999999999
+wfo_with_tuning: 39.4
+ghost: 39.4
+ghost-v2: 86.0
+
+jedit2:
+=======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 40.400000000000006
+ghost: 40.400000000000006
+ghost-v2: 85.5
+
+log4j:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 50.7
+ghost: 50.7
+ghost-v2: 79.60000000000001
+
+xalan:
+======
+vanilla: 0.0
+weighted_losses: 0.0
+wfo_only: 0.0
+tuning: 0.0
+wfo_with_tuning: 65.0
+ghost: 65.0
+ghost-v2: 68.30000000000001
+
+Done.
